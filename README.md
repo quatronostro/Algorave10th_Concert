@@ -3,5 +3,5 @@
 Sound files are same as https://github.com/quatronostro/11december2021-sonic-pi-codes
 
 
-Soundcloud Link:
-https://soundcloud.com/baramuk/27march2022-algorave_ist-10-sahika?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Music Link:
+https://drive.google.com/file/d/1e9aoKsQJfnljlyL5QWthMetuz9WjkJYa/view?usp=sharing
